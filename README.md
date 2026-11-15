@@ -5,15 +5,10 @@
   ### Telegram & Web-Based Android Remote Administration Tool
 
 <p align="center">
-  <a href="https://github.com/zidhuxdev/WhaleRAT/stargazers">
-    <img src="https://img.shields.io/github/stars/zidhuxdev/WhaleRAT?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
-  </a>
-  <a href="https://github.com/zidhuxdev/WhaleRAT/forks">
-    <img src="https://img.shields.io/github/forks/zidhuxdev/WhaleRAT?style=for-the-badge&logo=github&color=blue" alt="Forks"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=zidhuxdev&repo=WhaleRAT&style=for-the-badge&color=brightgreen&label=VIEWS" alt="Views"/>
-  <img src="https://img.shields.io/badge/Node.js-%3E%3D20.0.0-brightgreen?style=for-the-badge&logo=node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Deploy-Railway-blueviolet?style=for-the-badge&logo=railway" alt="Railway"/>
+<a href="https://github.com/zidhuxdev/WhaleRAT/stargazers"><img src="https://img.shields.io/github/stars/zidhuxdev/WhaleRAT?style=for-the-badge&logo=github&color=yellow" alt="Stars"/></a> <a href="https://github.com/zidhuxdev/WhaleRAT/forks"><img src="https://img.shields.io/github/forks/zidhuxdev/WhaleRAT?style=for-the-badge&logo=github&color=blue" alt="Forks"/></a>
+<img src="https://komarev.com/ghpvc/?username=zidhuxdev&repo=WhaleRAT&style=for-the-badge&color=brightgreen&label=VIEWS" alt="Views"/>
+<img src="https://img.shields.io/badge/Node.js-%3E%3D20.0.0-brightgreen?style=for-the-badge&logo=node.js" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Deploy-Railway-blueviolet?style=for-the-badge&logo=railway" alt="Railway"/>
 </p>
 </div>
 
